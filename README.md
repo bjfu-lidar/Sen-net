@@ -23,6 +23,14 @@ Foliage, wood (i.e., trunk, branch), ground, and lower objects (i.e., grass, shr
 
 # Data
 Please refer to [Lin3D](https://github.com/bjfu-lidar/Lin3D-Large-scale-forest-scene-INterpretation-3D-point-cloud-dataset)
+
+# Installation
+This implementation has been tested on: 
+
+Ubuntu 18.04, PyTorch 1.7.0, Python 3.8, Cuda 11.0, Nvidia RTX 3090
+
+Ubuntu 18.04, PyTorch 1.7.0, Python 3.8, Cuda 11.0, Nvidia A40
+
 # Citation
 
 # Acknowledgement

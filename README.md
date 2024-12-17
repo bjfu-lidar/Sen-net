@@ -35,4 +35,4 @@ Ubuntu 18.04, PyTorch 1.7.0, Python 3.8, Cuda 11.0, Nvidia A40
 
 # Acknowledgement
 Codes are built based on a series of previous works, including: <br>
-[KPConv](https://github.com/HuguesTHOMAS/KPConv), <br>
+[KPConv](https://github.com/HuguesTHOMAS/KPConv) <br>
